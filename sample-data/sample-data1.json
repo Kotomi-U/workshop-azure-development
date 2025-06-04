@@ -1,0 +1,14 @@
+{
+	"Category":"Fisheries",
+	"Requestor":"NZ Fisheries Sub Company1",
+	"Payload": {
+	  "Vessel": "Blabbergust Hey",
+	  "VesselRegistrationNo": "NZ900-900",
+	  "OriginalPort": "Auckland",
+	  "DestinationPort": "Christchurch",
+	  "ETA": "2025-03-20T18:25:43.511Z",
+	  "DepartedDate": "2024-12-29T18:25:43.511Z",
+	  "Category": "Fishing Boat Heaven",
+	  "Purpose": "Unloading cargo"
+	}
+}
